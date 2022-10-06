@@ -3,6 +3,7 @@ import {createAppContainer} from "react-navigation";
 import Home from '../screens/HomeScreen';
 import ProductDetail from "../screens/ProductDetail";
 
+
 const screens = {
     Home: {
         screen: Home
